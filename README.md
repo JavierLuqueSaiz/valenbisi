@@ -4,32 +4,32 @@
 [![R](https://img.shields.io/badge/R-%2314354C.svg?style=for-the-badge&logo=R&logoColor=white)](https://www.r-project.org/) 
 
 
-## Presentation
+## Presentación
 
-In this project, *Valenbisi: an analysis on wheels*, an exhaustive analysis of the bike-sharing system in the city of Valencia has been carried out. This study has sought to understand the different aspects related to the use of this sustainable transport system:
+En este proyecto, *Valenbisi: un análisis sobre ruedas*, se ha realizado un análisis exhaustivo del sistema de bicicletas compartidas en la ciudad de Valencia. Este estudio ha buscado comprender los diferentes aspectos relacionados con el uso de este sistema de transporte sostenible:
 
-- **Exploratory analysis of the data**. This analysis has mainly consisted of comparing how the central stations behave with respect to the peripheral ones.
+- **Análisis exploratorio de los datos**. Este análisis ha consistido principalmente en comparar cómo se comportan las estaciones centrales con respecto a las periféricas.
 
-- **Influence of meteorological variables on the use of Valenbisi bicycles**. Weather data, such as temperature, wind and precipitation, were collected and their relationship with bicycle usage patterns was evaluated.
+- **Influencia de variables meteorológicas en el uso de las bicicletas Valenbisi**. Se recopilaron datos meteorológicos, como temperatura, viento y precipitación, y se evaluó su relación con los patrones de uso de bicicletas.
 
-- **Clustering techniques**. Valenbisi stations have been clustered according to their similarity in terms of usage patterns. This has allowed the identification of different clusters of stations with particular characteristics and needs, which can be used to improve the planning and distribution of bicycles in the city. Likewise, the incorporation of information about places of interest in the city of Valencia, such as universities, hospitals, beaches, commercial areas... has also been considered.
+- **Técnicas de clustering**. Las estaciones de Valenbisi se han agrupado según su similitud en términos de patrones de uso. Esto ha permitido la identificación de diferentes grupos de estaciones con características y necesidades particulares, que pueden utilizarse para mejorar la planificación y distribución de bicicletas en la ciudad. Asimismo, se ha considerado la incorporación de información sobre lugares de interés en la ciudad de Valencia, como universidades, hospitales, playas, áreas comerciales, etc.
 
-- **Predictive model**. Using the data collected, we tried to predict the future demand for Valenbisi. This model can be used to plan the distribution of bicycles and optimize the capacity of the stations according to the expected demand at different times and stations in the city.
+- **Modelo predictivo**. Utilizando los datos recopilados, se intentó predecir la demanda futura de Valenbisi. Este modelo puede utilizarse para planificar la distribución de bicicletas y optimizar la capacidad de las estaciones según la demanda esperada en diferentes momentos y estaciones de la ciudad.
 
-## Data
+## Datos
 
-The data have been obtained from the API of the Valencia City Council:
+Los datos se han obtenido a través de la API del Ayuntamiento de Valencia:
 
-> Link to the data: https://valencia.opendatasoft.com/explore/dataset/valenbisi-disponibilitat-valenbisi-dsiponibilidad/download/?format=csv&timezone=Europe/Berlin&lang=es&use_labels_for_header=true&csv_separator=%3B
+> Enlace a los datos: https://valencia.opendatasoft.com/explore/dataset/valenbisi-disponibilitat-valenbisi-dsiponibilidad/download/?format=csv&timezone=Europe/Berlin&lang=es&use_labels_for_header=true&csv_separator=%3B
 
-## Who is contributing to this repository?
+## ¿Quién está contribuyendo a este repositorio?
 
-We have divided the project into the points mentioned above:
+Hemos dividido el proyecto en los puntos mencionados anteriormente:
 
-| Author               | Assigned task                |
+| Autor               | Tarea asignada                |
 |----------------------|------------------------------------|
-| Javier Luque | Exploratory analysis of the data |
-| Daniel Garijo | Influence of meteorological variables |
-| Pablo Parrilla | Clustering techniques |
-| Jose Valero | Predictive model |
-| Qilu Diana Wu| Clustering techniques |
+| Javier Luque | Análisis exploratorio de los datos |
+| Daniel Garijo | Influencia de variables meteorológicas |
+| Pablo Parrilla | Técnicas de clustering |
+| Jose Valero | Modelo predictivo |
+| Qilu Diana Wu| Técnicas de clustering |
